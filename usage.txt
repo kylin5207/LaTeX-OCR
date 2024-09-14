@@ -1,0 +1,4 @@
+# Mac Usage
+1. 终端输入`pix2tex latexoc`
+2. 截图需要latex的公式
+3. 然后在终端按下回车，会自动解析粘贴板中的公式，得到latex code
